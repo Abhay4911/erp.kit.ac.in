@@ -18,12 +18,13 @@
     justify-content: flex-start;
 }
 
-main {
+body {
     background-image: url("Screenshot_2026_02_25_164334_224ad50c352e437df1b7c475b9603243.jpg");
     background-size: cover;
     background-position: center;
     background-repeat:no-repeat;
     height: 800px;
+    background-attachment:fixed;
       
     margin: 0;
 }
