@@ -20,10 +20,10 @@
 
 main {
     background-image: url("Screenshot_2026_02_25_164334_224ad50c352e437df1b7c475b9603243.jpg");
-    background-size: 100% 100%;
+    background-size: cover;
     background-position: center;
     background-repeat:no-repeat;
-    min-height: 200vh;
+    min-height: 800px;
       
     margin: 0;
 }
